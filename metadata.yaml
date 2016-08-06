@@ -1,0 +1,28 @@
+_repo: VergilA-Biography_10960
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frank, Tenney
+    alias: Frank, Tenny
+    birthdate: 1876
+    deathdate: 1939
+    gutenberg_agent_id: '3769'
+    url: http://www.gutenberg.org/2009/agents/3769
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Virgil'
+- !lcsh 'Poets, Latin -- Biography'
+- GITenberg
+title: 'Vergil
+
+  A Biography'
+url: http://www.gutenberg.org/ebooks/10960
